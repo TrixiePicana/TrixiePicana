@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Juan Dela Cruz
 
-Welcome to my GitHub profile! I'm passionate about coding and possess strong database management skills. I excel in solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program.
+Welcome to my GitHub profile! I'm passionate about coding and possess strong database management skills. I excel in solving complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program.
 
 ## Education
 - **BS Computer Science**
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - HTML
 
 ## Reach Me
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+-
 - Email: tvpicana2k01@gmail.com
 
 Feel free to connect with me and explore my repositories. Let's code and build amazing things together!
