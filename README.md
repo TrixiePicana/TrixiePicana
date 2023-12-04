@@ -1,16 +1,22 @@
-### Hi there 👋
+I am Trixie Picaña, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
 
-<!--
-**TrixiePicana/TrixiePicana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education:
+BS Computer Science
+New Era University
+2022-Present
 
-Here are some ideas to get you started:
+Certification:
+Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+Oracle Cloud Data Management 2023 Certified Foundations Associate
+Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+SQL and Relational Databases 101
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skill sets:
+Programming :  Java, Javascript
+Databases: IBM DB2 Cloud
+Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+You may reach me at:
+Email: tvpicana2k01@gmail.com
+
+Make all certifications with hyperlink.
