@@ -1,3 +1,4 @@
+## Problem Statement
 Imagine your building a smart home automation system where various devices (lights, thermostat, music player, etc.) can be controlled remotely using a central hub 
 or app. Each device has different functionalities, but you want to create a unified and flexible control mechanism. 
 
@@ -12,3 +13,6 @@ needing low-level details.
 
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be 
 added without disrupting the existing system's functionality. 
+
+## UML Class Diagram
+https://lucid.app/lucidchart/2e0c5410-0e9d-4527-82dc-769c4b3abf0b/edit?page=HWEp-vi-RSFO&invitationId=inv_ec911ed3-14e6-46a7-9d1d-b24cbd65a546#
