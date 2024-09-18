@@ -1,6 +1,6 @@
 package commandPattern;
 
-public class wallSwitch
+public class lightSwitch
 {
     private Command command;
 
