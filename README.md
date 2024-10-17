@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - Jaspersoft Studio
   - Eclipse
   - HTML
+  - IntelliJ
 
 ## Reach Me
 -
