@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
 - **Programming:**
   - Java
   - Javascript
+  - Bash Script
 
 - **Databases:**
   - IBM DB2 Cloud
