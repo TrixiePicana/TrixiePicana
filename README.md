@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
 ## Skill Sets
 - **Programming:**
   - Java
+  - HTML
   - Javascript
   - Bash Script
 
@@ -26,8 +27,9 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - Lucidchart
   - Jaspersoft Studio
   - Eclipse
-  - HTML
   - IntelliJ
+  - Power BI
+  - Pentaho for Data Integration
 
 ## Reach Me
 -
