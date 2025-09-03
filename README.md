@@ -14,14 +14,11 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0d10eb8f53774188b1ceaf894232806e)
 - [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=6cd667f0-a736-4160-90b6-17eab1dacf0f)
 
-## Badges
-- [Introduction to Data Science](https://www.netacad.com/profile?tab=badges)
 ## Skill Sets
 - **Programming:**
   - Java
   - HTML
-  - Javascript
-  - Bash Script
+  - Python
 
 - **Databases:**
   - IBM DB2 Cloud
@@ -33,9 +30,11 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - IntelliJ
   - Power BI
   - Pentaho for Data Integration
+  - Tableau Public
+  - Google Colab
 
 ## Reach Me
--
+- 
 - Email: tvpicana2k01@gmail.com
 
 Feel free to connect with me and explore my repositories. Let's code and build amazing things together!
