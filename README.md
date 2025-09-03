@@ -12,7 +12,10 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4618FC18419BE31730409C7946DC2A3C6DB49802995D0A0E9B17D13EBF04AAA2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=97DF8268FEB7B4F49FA03F7B5F7084EB6340AB978D5F38A32627145D2F97417C)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0d10eb8f53774188b1ceaf894232806e)
+- [Introduction to Data Science](https://www.netacad.com/certificates?issuanceId=6cd667f0-a736-4160-90b6-17eab1dacf0f)
 
+## Badges
+- [Introduction to Data Science](https://www.netacad.com/profile?tab=badges)
 ## Skill Sets
 - **Programming:**
   - Java
