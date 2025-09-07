@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - Java
   - HTML
   - Python
+  - SQL
 
 - **Databases:**
   - IBM DB2 Cloud
@@ -28,10 +29,11 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - Jaspersoft Studio
   - Eclipse
   - IntelliJ
-  - Power BI
+  - Power BI for Data Visualization
   - Pentaho for Data Integration
-  - Tableau Public
+  - Tableau Public for Data Visualization
   - Google Colab
+  - Visual Studio Code
 
 ## Reach Me
 - 
