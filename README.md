@@ -1,4 +1,4 @@
-# Hi there! 👋 Trixie Vea B. Picaña
+# About Me
 
 Welcome to my GitHub profile! I'm passionate about coding and possess strong database management skills. I excel in solving complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program.
 
