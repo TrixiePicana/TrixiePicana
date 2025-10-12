@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
   - Visual Studio Code
 
 ## Reach Me
-- 
+- LinkedIn: Trixie Vea Picaña
 - Email: tvpicana2k01@gmail.com
 
 Feel free to connect with me and explore my repositories. Let's code and build amazing things together!
