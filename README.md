@@ -38,5 +38,5 @@ Welcome to my GitHub profile! I'm passionate about coding and possess strong dat
 ## Reach Me
 - LinkedIn: Trixie Vea Picaña
 - Email: tvpicana2k01@gmail.com
-
+- Telegram: Trixie Picana
 Feel free to connect with me and explore my repositories. Let's code and build amazing things together!
